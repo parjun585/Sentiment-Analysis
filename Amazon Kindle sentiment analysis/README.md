@@ -1,5 +1,5 @@
 
-# Kindle Sentiment Analysis 
+# Kindle Review Sentiment Analysis 
 
 This is a small subset of dataset of Book reviews from Amazon Kindle Store category.
 
